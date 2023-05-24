@@ -1,5 +1,8 @@
 _repo: Archeological-investigations-in-New-Mexico-Colorado-and-Utah_70751
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70751-h/images/cover.jpg
 creator:
   author:
     agent_name: Fewkes, Jesse Walter
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7741
     wikipedia: https://en.wikipedia.org/wiki/Jesse_Walter_Fewkes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70751#Archeological-investigations-in-New-Mexico-Colorado-and-Utah
 gutenberg_issued: '2023-05-13'
 identifiers:
   gutenberg: '70751'
